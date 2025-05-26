@@ -1,0 +1,1 @@
+In mathematic, the concept of measure is a generalization and formalization of geometry measures(volume, area, length).

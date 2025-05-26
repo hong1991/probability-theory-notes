@@ -1,0 +1,1 @@
+In [probability space](Probability%20Space.md) $(\Omega, \mathcal{A}, \mathbb{P})$. Given events $A, B \in \mathcal{A}$ with $\mathbb{P}(B) > 0$, the **probability of $A$ under condition $B$** is defined by $$\mathbb{P}(A|B)=\frac{\mathbb{P}(A \cap B)}{\mathbb{P}(B)}.$$

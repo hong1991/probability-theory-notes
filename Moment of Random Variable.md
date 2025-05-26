@@ -1,0 +1,1 @@
+A [random variable](random%20variable.md) X possesses an **nth moment**, provided that $\mathbb{E}|X|^n < \infty$. We also say $X$ has a finite **absolute nth moment**. If this is so, then $\mathbb{E}X^n$ exists, and it is called **nth moment** of $X$.

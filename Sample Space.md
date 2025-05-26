@@ -1,0 +1,1 @@
+The sample space $\Omega$ is a nonempty set that contains (at least) all possible outcomes of the random experiment.

@@ -1,0 +1,1 @@
+Let $(\Omega,\mathcal{A},\mathbb{P}_\theta)_{\theta\in\Theta}$ be a [[statistical model|parametric statistical model]] with [[likelihood function]]
